@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ca r221.14\\source\\repos\\Ab206\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{496DD3B8-17D4-4DFE-AF15-235F587353C5}|Ab206\\Ab206.csproj|c:\\users\\ca r221.14\\source\\repos\\ab206\\ab206\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{496DD3B8-17D4-4DFE-AF15-235F587353C5}|Ab206\\Ab206.csproj|solutionrelative:ab206\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{496DD3B8-17D4-4DFE-AF15-235F587353C5}|Ab206\\Ab206.csproj|c:\\users\\ca r221.14\\source\\repos\\ab206\\ab206\\models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{496DD3B8-17D4-4DFE-AF15-235F587353C5}|Ab206\\Ab206.csproj|solutionrelative:ab206\\models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{496DD3B8-17D4-4DFE-AF15-235F587353C5}|Ab206\\Ab206.csproj|c:\\users\\ca r221.14\\source\\repos\\ab206\\ab206\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{496DD3B8-17D4-4DFE-AF15-235F587353C5}|Ab206\\Ab206.csproj|solutionrelative:ab206\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\source\\repos\\Ab206\\Ab206\\Models\\Car.cs",
+              "RelativeDocumentMoniker": "Ab206\\Models\\Car.cs",
+              "ToolTip": "C:\\Users\\ca r221.14\\source\\repos\\Ab206\\Ab206\\Models\\Car.cs",
+              "RelativeToolTip": "Ab206\\Models\\Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T10:33:59.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\source\\repos\\Ab206\\Ab206\\Models\\Vehicle.cs",
+              "RelativeDocumentMoniker": "Ab206\\Models\\Vehicle.cs",
+              "ToolTip": "C:\\Users\\ca r221.14\\source\\repos\\Ab206\\Ab206\\Models\\Vehicle.cs",
+              "RelativeToolTip": "Ab206\\Models\\Vehicle.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAQwE4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T10:28:42.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\source\\repos\\Ab206\\Ab206\\Program.cs",
+              "RelativeDocumentMoniker": "Ab206\\Program.cs",
+              "ToolTip": "C:\\Users\\ca r221.14\\source\\repos\\Ab206\\Ab206\\Program.cs",
+              "RelativeToolTip": "Ab206\\Program.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAowAoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T10:13:26.537Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

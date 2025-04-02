@@ -1,0 +1,14 @@
+C:\Users\ca r221.14\source\repos\Ab206\Ab206\bin\Debug\net8.0\Ab206.exe
+C:\Users\ca r221.14\source\repos\Ab206\Ab206\bin\Debug\net8.0\Ab206.deps.json
+C:\Users\ca r221.14\source\repos\Ab206\Ab206\bin\Debug\net8.0\Ab206.runtimeconfig.json
+C:\Users\ca r221.14\source\repos\Ab206\Ab206\bin\Debug\net8.0\Ab206.dll
+C:\Users\ca r221.14\source\repos\Ab206\Ab206\bin\Debug\net8.0\Ab206.pdb
+C:\Users\ca r221.14\source\repos\Ab206\Ab206\obj\Debug\net8.0\Ab206.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ca r221.14\source\repos\Ab206\Ab206\obj\Debug\net8.0\Ab206.AssemblyInfoInputs.cache
+C:\Users\ca r221.14\source\repos\Ab206\Ab206\obj\Debug\net8.0\Ab206.AssemblyInfo.cs
+C:\Users\ca r221.14\source\repos\Ab206\Ab206\obj\Debug\net8.0\Ab206.csproj.CoreCompileInputs.cache
+C:\Users\ca r221.14\source\repos\Ab206\Ab206\obj\Debug\net8.0\Ab206.dll
+C:\Users\ca r221.14\source\repos\Ab206\Ab206\obj\Debug\net8.0\refint\Ab206.dll
+C:\Users\ca r221.14\source\repos\Ab206\Ab206\obj\Debug\net8.0\Ab206.pdb
+C:\Users\ca r221.14\source\repos\Ab206\Ab206\obj\Debug\net8.0\Ab206.genruntimeconfig.cache
+C:\Users\ca r221.14\source\repos\Ab206\Ab206\obj\Debug\net8.0\ref\Ab206.dll
