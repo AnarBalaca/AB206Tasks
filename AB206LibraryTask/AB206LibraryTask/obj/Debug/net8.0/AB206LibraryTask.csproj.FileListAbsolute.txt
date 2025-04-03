@@ -1,0 +1,5 @@
+C:\Users\ca r221.14\Desktop\AB206Tasks\Ab206\AB206LibraryTask\AB206LibraryTask\obj\Debug\net8.0\AB206LibraryTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ca r221.14\Desktop\AB206Tasks\Ab206\AB206LibraryTask\AB206LibraryTask\obj\Debug\net8.0\AB206LibraryTask.AssemblyInfoInputs.cache
+C:\Users\ca r221.14\Desktop\AB206Tasks\Ab206\AB206LibraryTask\AB206LibraryTask\obj\Debug\net8.0\AB206LibraryTask.AssemblyInfo.cs
+C:\Users\ca r221.14\Desktop\AB206Tasks\Ab206\AB206LibraryTask\AB206LibraryTask\obj\Debug\net8.0\AB206LibraryTask.csproj.CoreCompileInputs.cache
+C:\Users\ca r221.14\Desktop\AB206Tasks\Ab206\AB206LibraryTask\AB206LibraryTask\obj\Debug\net8.0\AB206LibraryTask.sourcelink.json
