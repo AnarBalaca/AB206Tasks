@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ca r221.14\\source\\repos\\ConsoleApp8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4523E96C-C930-4FBF-B628-2AFA6CBEB0CE}|ConsoleApp8\\ConsoleApp8.csproj|c:\\users\\ca r221.14\\source\\repos\\consoleapp8\\consoleapp8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4523E96C-C930-4FBF-B628-2AFA6CBEB0CE}|ConsoleApp8\\ConsoleApp8.csproj|solutionrelative:consoleapp8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4523E96C-C930-4FBF-B628-2AFA6CBEB0CE}|ConsoleApp8\\ConsoleApp8.csproj|c:\\users\\ca r221.14\\source\\repos\\consoleapp8\\consoleapp8\\helper\\accountmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4523E96C-C930-4FBF-B628-2AFA6CBEB0CE}|ConsoleApp8\\ConsoleApp8.csproj|solutionrelative:consoleapp8\\helper\\accountmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4523E96C-C930-4FBF-B628-2AFA6CBEB0CE}|ConsoleApp8\\ConsoleApp8.csproj|c:\\users\\ca r221.14\\source\\repos\\consoleapp8\\consoleapp8\\models\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4523E96C-C930-4FBF-B628-2AFA6CBEB0CE}|ConsoleApp8\\ConsoleApp8.csproj|solutionrelative:consoleapp8\\models\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountManager.cs",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\source\\repos\\ConsoleApp8\\ConsoleApp8\\Helper\\AccountManager.cs",
+              "RelativeDocumentMoniker": "ConsoleApp8\\Helper\\AccountManager.cs",
+              "ToolTip": "C:\\Users\\ca r221.14\\source\\repos\\ConsoleApp8\\ConsoleApp8\\Helper\\AccountManager.cs",
+              "RelativeToolTip": "ConsoleApp8\\Helper\\AccountManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T13:46:32.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BankAccount.cs",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\source\\repos\\ConsoleApp8\\ConsoleApp8\\Models\\BankAccount.cs",
+              "RelativeDocumentMoniker": "ConsoleApp8\\Models\\BankAccount.cs",
+              "ToolTip": "C:\\Users\\ca r221.14\\source\\repos\\ConsoleApp8\\ConsoleApp8\\Models\\BankAccount.cs",
+              "RelativeToolTip": "ConsoleApp8\\Models\\BankAccount.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T13:45:23.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\source\\repos\\ConsoleApp8\\ConsoleApp8\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp8\\Program.cs",
+              "ToolTip": "C:\\Users\\ca r221.14\\source\\repos\\ConsoleApp8\\ConsoleApp8\\Program.cs",
+              "RelativeToolTip": "ConsoleApp8\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T10:08:46.251Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
